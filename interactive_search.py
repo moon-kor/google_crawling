@@ -1,4 +1,4 @@
-from google_news_cron import GoogleNewsCron
+from google_news_cron import GoogleNewsCron as GoogleNewsCron
 import time
 
 def interactive_search():
