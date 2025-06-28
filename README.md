@@ -153,4 +153,4 @@ cron.run(mode='cron', country='ko', keyword='삼성전자')
 
 ## 📞 문의
 
-프로젝트에 대한 문의사항이 있으시면 [GitHub Issues](https://github.com/moon-kor/google_crawling/issues)를 통해 연락해주세요. 
+프로젝트에 대한 문의사항이 있으시면 [GitHub Issues](https://github.com/moon-kor/google_crawling/issues)를 통해 연락해주세요.
